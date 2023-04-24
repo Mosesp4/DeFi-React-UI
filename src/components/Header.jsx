@@ -17,7 +17,7 @@ const Header = () => {
         {/* Render a div that contains the header elements */}
         <div className="header-container">
             {/* Render the logo */}
-            <div className= "logo">MOSWAP</div>
+            <div className= "logo">MoSwap</div>
 
             {/* Render the menu */}
             <div className= "menu">
