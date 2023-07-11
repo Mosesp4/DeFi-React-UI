@@ -41,7 +41,7 @@ function App() {
   ];
   
   return (
-    <div className="Home"> {/* The root component */}
+    <div className="home"> {/* The root component */}
     <Header /> {/* The header component */}
     <Hero /> {/* The hero component */}
     <DailyStats /> {/* The daily stats component */}
@@ -57,8 +57,8 @@ function App() {
         })
       }
     </div>
-    <SocialMediaPromo /> {/* The social media promo component */}
-    <DevSection /> {/* The dev section component */}
+    <DevSection /> {/* The social media promo component */}
+    <SocialMediaPromo /> {/* The dev section component */}
     <BlogSection/> {/* The blog section component */}
     <Footer/> {/* The footer component */}
     </div>

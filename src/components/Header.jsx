@@ -33,7 +33,7 @@ const Header = () => {
 
             {/* Render the wallet connect button */}
             <div className="wallet-btn">
-                <button className="primary">Connect App</button>
+                <button className="primary">Connect</button>
             </div>
 
             {/* Render the menu icon */}

@@ -28,7 +28,9 @@ const Hero = () => {
             <img className="search" src={Search} alt="search" />
 
             {/* Search input */}
-            <input className="search-input"></input>
+            <input className="search-input"
+             placeholder="Search 5000+ tokens across 9 Chains..."
+            ></input>
           </div>
 
           {/* Button to start swapping */}
@@ -60,7 +62,7 @@ const Hero = () => {
       {/* Image of the product */}   
       <div className="hero-image-container">
         <div>
-          <img className="hero-image" src={hero1} alt="block" />
+          <img className="hero-image" src={hero1} alt="blockchain" />
         </div>
       </div>
     </div>
